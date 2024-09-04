@@ -1,26 +1,24 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "name": "Kevin Clarkin",
+    "label": "IT Assistant at UH Manoa | Senior Computer Science student",
+    "picture": "https://avatars.githubusercontent.com/u/158231610?v=4",
+    "email": "kc64@hawaii.edu | kevinclarkin29@yahoo.com",
+    "phone": "808-227-2723",
+    "website": "https://kevin-clarkin29.github.io/",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. Currently working as an IT assistant. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "kevin-clarkin29", "url": "https://github.com/kevin-clarkin29" },
+      { "network": "linkedin", "username": "Kevin Clarkin ", "url": "https://www.linkedin.com/in/kevin-clarkin-9ab78188/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Data-Analysis" },
+    { "name": "Video-Game Development" },
+    { "name": "Cooking" },
+    { "name": "Poetry" },
+    { "name": "Philosophy and Religion" }
   ],
   "skills": [
     {
