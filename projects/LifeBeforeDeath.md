@@ -11,7 +11,7 @@ labels:
 summary: "Indie first-person puzzle game developed as a team for ICS 485."
 ---
 
-<img class="img-fluid" src="[../img/cotton/cotton-header.png](https://liamkula.github.io/img/LBD_Banner.png)">
+<img class="img-fluid" src="https://liamkula.github.io/img/LBD_Banner.png">
 
 <h1 style="color:green;">What is Life Before Death:</h1>
 
