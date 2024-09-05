@@ -24,10 +24,17 @@ One of the key ways TypeScript enhances a developer's attention to detail is thr
 
 In this simple function, TypeScript requires us to explicitly declare that ‘price’ and ‘quantity’ are both numbers and that the function returns a number. If we accidentally try to pass a string or any other type, TypeScript will throw a compile-time error, alerting us to the mistake before it can cause issues in production. This attention to detail not only prevents errors but also encourages developers to think more critically about their code, leading to cleaner and more reliable software.
 
+## Ensuring Code Reliability through Explicit Declarations
+
+In addition to enhancing one’s attention through its syntax, TypeScript also functions to ensure code reliability. A program that has hundreds of thousands to millions of lines of code requires that other developers who look at that code can compartmentalize it, and that is precisely because of its explicit declarations that allow others to see its syntax with clarity. We might confuse ‘quantity’ between other data types than a ‘number,’ as it could very well be an array, for instance. Here, there is no confusion as to what the data type could possibly be. That said, the only caveat to this precision is that one has to type more. The tediousness of this is only jarring to new developers learning to code, but while it is unfortunate at that stage, complexity and clarity are great rewards for simply needing to type a little more to ensure quality.
+
 ## Appreciating Complexity: TypeScript as a Powerful Extension
 
-On the other hand, Video Game Development merges my love for creativity and technology. Having developed games myself, I’ve experienced the thrill of designing interactive experiences that engage players. Video game development is an intricate balance between technical precision and artistic expression, requiring skills in programming, storytelling, and user experience. I enjoy the challenge of creating immersive environments where players can explore, solve problems, and experience narratives in unique ways. This combination of coding and creativity keeps me constantly engaged and pushes me to enhance both my technical and design abilities.
+In learning TypeScript, I’ve come to appreciate the complexity that it adds to JavaScript. JavaScript itself is a rather simple language, and that has its merits, but with the addition of TypeScript syntax, a developer may use the complex tools that it offers—similar to a painter acquiring different brushes to paint with or a cook having different knives to cut with. The addition of these tools, while sometimes requiring a more thorough understanding of how to utilize the options available, is a marked improvement to JavaScript.
 
 ## Conclusion: The Power of Precision in TypeScript
 
-Ultimately, my interests in Data Analytics and Video Game Development represent two sides of the software engineering spectrum—analytical and creative. Both fields allow me to apply my problem-solving skills in distinct ways while offering opportunities to innovate and grow. As I continue to deepen my knowledge in these areas, I am excited by the endless possibilities for contributing to projects that are impactful, whether through insightful data-driven solutions or captivating game experiences.
+In reflection on everything I have learned in TypeScript, it is a wonderful incorporation that not only enhances a developer's attention to detail through its strict typing system but also functions to ensure code reliability. This all, of course, adds complexity to the simple JavaScript language, but more tools to ensure a quality product are always worth it. With great precision comes great power.
+
+
+
