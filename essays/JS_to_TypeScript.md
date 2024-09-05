@@ -20,7 +20,7 @@ How important is precision in coding? Well, imprecision in coding could cost som
 
 One of the key ways TypeScript enhances a developer's attention to detail is through its strict typing system. In JavaScript, it’s easy to overlook the types of variables, leading to potential runtime errors. TypeScript, however, enforces type annotations, making it clear what types of values a variable can hold. For instance, consider the following example:
 
-<img class="img-fluid" src="https://postimg.cc/wRJjLYnb">
+<img class="https://i.postimg.cc/j23nVscK/2024-09-04-22-19-35-Window.png">
 
 In this simple function, TypeScript requires us to explicitly declare that ‘price’ and ‘quantity’ are both numbers and that the function returns a number. If we accidentally try to pass a string or any other type, TypeScript will throw a compile-time error, alerting us to the mistake before it can cause issues in production. This attention to detail not only prevents errors but also encourages developers to think more critically about their code, leading to cleaner and more reliable software.
 
