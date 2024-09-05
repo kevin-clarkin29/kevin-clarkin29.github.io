@@ -11,7 +11,7 @@ labels:
   - Javascript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="https://tsh.io/wp-content/uploads/2020/09/typescript-vs-javascript-comparison_.jpg">
 
 How important is precision in coding? Well, imprecision in coding could cost somewhere in the ballpark of hundreds of thousands of dollars, and in one of the worst cases hundreds of millions of dollars, just as we saw with the Crowdstrike incident for Microsoft this year. While precision in coding is undeniably crucial, clarity is essential across all professions, not just for software developers. Would we want to ride any vehicle whose maintenance was done by someone known to cut corners? The only caveat of this is, of course, the sometimes tedious nature of what we need to do in order to ensure that clarity, and the responsibility of creating quality work as a professional. Enter TypeScript: a powerful extension to JavaScript that has significantly improved the development of countless websites we use today with exactly the goal of being more precise in mind. In my journey of learning TypeScript, it has transformed my approach to coding by enhancing my attention to detail, improving code reliability, and encouraged a newfound appreciation in me for complexity within coding languages.
 
