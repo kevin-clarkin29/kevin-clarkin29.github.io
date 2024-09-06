@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://i.postimg.cc/1X1srBZR/2024-09-06-09-40-41-Professional-Protfolio-Project.png
+image: https://i.postimg.cc/pX9JFBL5/lbdLogo.png
 title: "Life Before Death"
 date: 2024
 published: true
