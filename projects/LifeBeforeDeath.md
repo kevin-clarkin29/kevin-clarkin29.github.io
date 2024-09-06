@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://liamkula.github.io/img/lbdLogo.png
+image: https://postimg.cc/9Rb6WGMs
 title: "Life Before Death"
 date: 2024
 published: true
