@@ -13,7 +13,7 @@ summary: "Inidie shooter game developed in Unity."
 
 <img class="img-fluid" src="https://i.postimg.cc/YCyR9PxL/2024-09-06-10-09-02-2-DShooter-V1-main-Main-Menu-Windows-Mac-Linux-Unity-2022-3-3f1-DX11.png">
 
-<h1 style="color:green;">What is My Sun is a Sea of Stars?:</h1>
+<h1 style="color:green;">What is My Sun is a Sea of Stars?</h1>
 
 A comedic mob-shooter where you play as "Sunny D", a beligerent punk sun flying through space to pick a fight with other space objects such as black holes, quasars, and "space junk" for cramping his style. Join Sunny D to shout some rather creative expletives as he shoots his way through rival space-fairers in *My Sun is a Sea of Stars*.
 
