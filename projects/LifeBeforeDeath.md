@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: https://liamkula.github.io/img/lbdLogo.png
 title: "Life Before Death"
 date: 2024
 published: true
