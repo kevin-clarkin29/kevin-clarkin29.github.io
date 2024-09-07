@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://i.postimg.cc/LsXjpWVn/2024-09-06-10-32-59.png
+image: img/2024-09-06 10_32_59-.png
 title: "My Sun is a Sea of Stars (Indie 2D Mob-Shooter)"
 date: 2024
 published: true
