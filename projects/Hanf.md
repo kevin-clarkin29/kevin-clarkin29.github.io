@@ -25,7 +25,7 @@ Link to website with more information: <a href="https://www.math.hawaii.edu/~pav
 
 
   <h1 style="color:green;">The Problem:</h1>
-I was given a list of 13 problems to choose from, and I chose this one as it sounded more like a puzzle than a standard math problem. The primary application of the problem has everything to do with the Pigeonhole-Principle: an interesting mathmatical principle which has gone to prove things such as determining that there's at least 2 people in London that have the exact same number of hairs on their head, to simpler things such as having a room filled with 367 random people guarentees that at least 2 attendees share the same birhtday. Completing one of the problems was an extra credit opporotunity which I never allow myself to let go. Thus began my journey into solving it.
+I was given a list of 13 problems to choose from, and I chose this one as it sounded more like a puzzle than a standard math problem. The primary application of the problem has everything to do with the Pigeonhole-Principle: an interesting mathmatical principle which has gone to prove things such as determining that there's at least 2 people in London that have the exact same number of hairs on their head, to simpler things such as having a room filled with 367 random people guarentees that at least 2 attendees share the same birthday. Completing one of the problems was an extra credit opporotunity which I never allow myself to let go. Thus began my journey into solving it.
 
 Wikipedia link: <a href="https://en.wikipedia.org/wiki/Pigeonhole_principle"><i class="large github icon "></i>Pigeonhole Principle</a>
 
