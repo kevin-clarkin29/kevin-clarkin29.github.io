@@ -12,7 +12,7 @@ summary: "I was the winner of the William P. Hanf Undergraduate Competition
 for Manoa Undergraduates for Fall 2023. Here is the problem and project that I did throghout that semester."
 ---
 
-<img class="img-fluid" src="img/Pigeon_Problem">
+<img class="img-fluid" src="img/Pigeon_Problem.png">
 
 <h1 style="color:green;">What is the William P. Hanf Competition?</h1>
 
