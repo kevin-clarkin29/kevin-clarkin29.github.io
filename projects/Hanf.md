@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/2024-09-06 10_32_59-.png
+image: img/Pigeon_Problem.png
 title: "Winner of the William P. Hanf Competition for Undergraduate Students"
 date: 2023
 published: true
