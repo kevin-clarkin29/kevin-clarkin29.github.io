@@ -9,7 +9,7 @@ labels:
   - Math
   - Competition
 summary: "I was the winner of the William P. Hanf Undergraduate Competition
-for Manoa Undergraduates for Fall 2023. Here is the problem and project that I did throghout that semester."
+for Manoa Undergraduates for Fall 2023. Here is the problem and project that I did throughout that semester."
 ---
 
 <img class="img-fluid" src="img/Pigeon_Problem.png">
