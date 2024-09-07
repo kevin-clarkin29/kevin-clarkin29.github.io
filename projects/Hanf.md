@@ -37,4 +37,4 @@ Wikipedia link: <a href="https://en.wikipedia.org/wiki/Pigeonhole_principle"><i 
 
 <hr>
 
-Source: <a href="[https://github.com/kevin-clarkin29/2DShooterV1](https://www.math.hawaii.edu/~pavel/hanf/hall_of_fame.html)"><i class="large github icon "></i>Hall of Fame</a>
+Source: <a href="https://www.math.hawaii.edu/~pavel/hanf/hall_of_fame.html"><i class="large github icon "></i>Hall of Fame</a>
