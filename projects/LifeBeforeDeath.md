@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://i.postimg.cc/qqdYDMMy/lbdLogo.png
+image: img/lbdLogo.png
 title: "Life Before Death"
 date: 2024
 published: true
