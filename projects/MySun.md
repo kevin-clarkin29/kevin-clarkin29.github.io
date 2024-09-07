@@ -35,4 +35,4 @@ The game is currently unfinished as there was a tight deadline for the class, bu
 
 <hr>
 
-Source: <a href="https://github.com/kevin-clarkin29/2DShooterV1"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/kevin-clarkin29/2DShooterV1"><i class="large github icon "></i>Github Repository</a>
