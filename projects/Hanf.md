@@ -8,11 +8,11 @@ published: true
 labels:
   - Math
   - Competition
-summary: "I was the winner of the William P. Hanf Undergraduate Competition
+summary: "I was the winner of the William P. Hanf Undergraduate competition
 for Manoa Undergraduates for Fall 2023. Here is the problem and project that I did throughout that semester."
 ---
 
-<img class="img-fluid" src="img/Pigeon_Problem.png">
+<img class="img-fluid" src="https://i.postimg.cc/Y0fLQtCd/Pigeon-Problem.png">
 
 <h1 style="color:green;">What is the William P. Hanf Competition?</h1>
 
