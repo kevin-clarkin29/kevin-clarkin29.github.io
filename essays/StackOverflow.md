@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "From JavaScript to TypeScript: With Great Precision Comes Great Power"
+title: "Efficient / inefficient Developer Questions and its Consequences"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-09
 published: true
@@ -20,7 +20,7 @@ Asking smart questions is a crucial skill for software engineers. The ability to
 ## Smart Question: *Why is processing a sorted array faster than processing an unsorted array?*
 URL: [https://stackoverflow.com/questions/11227809](https://stackoverflow.com/questions/11227809)
 
-The first question, *"Why is processing a sorted array faster than processing an unsorted array?"* provides an exemplary model of a smart question. The author clearly describes the problem, frames the question within a context that is easy for readers to understand, and includes enough technical information to provoke thought. The question addresses a curious and nuanced behavior observed in performance optimization—why sorting an array impacts performance. This observation demonstrates that the author has not only encountered a technical issue but has made a preliminary analysis of the behavior, which is a hallmark of a well-thought-out question.
+The first question, *"Why is processing a sorted array faster than processing an unsorted array?"* provides a good model of a smart question. The author clearly describes the problem, gives example code to demonstrate initial findings, frames the question within a context that is easy for readers to understand, and includes enough technical information to provoke thought. The question addresses a curious behavior observed in performance optimization—why sorting an array impacts performance. This observation demonstrates that the author has not only encountered a technical issue but has made a analysis of the behavior and has in ernest tried to solve the problem on their own before posting to Stack Overflow, which is a hallmark of a well-thought-out question.
 
 ### Analysis:
 1. **Clarity and Context**: The question is clear, with a well-defined scope. The author introduces the problem in a way that makes it easy to follow even for someone unfamiliar with the specific code they are working on. The description of the observed performance difference between sorted and unsorted arrays is detailed enough to allow others to understand the nature of the problem.
