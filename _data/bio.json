@@ -23,19 +23,19 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "C#", "Java", "Javascript", "Typescript", "Bash" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Ubuntu", "Git/GitHub"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2024)",
+      "studyType": "B.A.",
+      "startDate": "2020-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -43,22 +43,21 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UH Manoa",
+      "position": "IT Assistant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2023-06-15",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "IT Assistant for ITS and Hamilton.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintains, updates, and oversees labs within Hamilton library. Responsible for Window Help-Desk and Reception desk for ITS."
       ]
     },
     {
       "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
+      "startDate": "20-01-01",
       "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
@@ -96,10 +95,10 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "William P. Hanf Competition for Undergraduate Students",
+      "date": "2023",
+      "awarder": "Pavel Guerzhoy",
+      "summary": "A math competition offered to my Calculus 1 class that I took with Professor Guerzhoy, in honor of a fondly remembered UH professor: William P. Hanf."
     },
     {
       "title": "First place",
