@@ -31,4 +31,4 @@ For Life Before Death, I worked primarily in programming puzzles and the invento
 
 <hr>
 
-Website: <a href="https://bcc394.wixsite.com/lifebeforedeath"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Website: <a href="https://bcc394.wixsite.com/lifebeforedeath"><i class="large github icon "></i>Life Before Death</a>
