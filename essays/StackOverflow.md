@@ -11,7 +11,7 @@ labels:
   - Good / Bad Questions
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="https://w7.pngwing.com/pngs/264/977/png-transparent-stackoverflow-overflow-stack-social-icons-circular-color-icon.png">
+<img width="200px" class="rounded float-start pe-4" src="https://static-00.iconduck.com/assets.00/stack-overflow-icon-2048x2048-7ohycn5z.png">
 
 # The Importance of Asking Smart Questions in Software Engineering
 
