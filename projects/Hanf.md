@@ -20,6 +20,8 @@ A competition offered to my Calculus 1 class that I took with Professor Guerzhoy
 
 Link to website with more information: <a href="https://www.math.hawaii.edu/~pavel/hanf/hanf.html"><i class="large github icon "></i>Professor Guerzhoy's Website</a>
 
+Rules for the competition: <a href="https://www.math.hawaii.edu/~pavel/hanf/rules.html"><i class="large github icon "></i>Competition Rules</a>
+
 
 <hr>
 
@@ -77,9 +79,11 @@ These values represent the cumulative cucumber counts on different days. Therefo
 
 Xi + 13 = Xj
 
-  <h1 style="color:green;">Screenshot:</h1>
 
-  <img class="img-fluid" src="https://i.postimg.cc/PfZpfgFc/2024-09-06-10-15-34.png">
+
+<h1 style="color:green;">Credits:</h1>
+
+Credits to where credit is due, I could not have possibly solved this problem without the help of my esteemed TA Alan Tong. He helped me to find the particular version of the pigeonhole-principle to utilize and refine the proof. I'm very grateful.
 
 
 <hr>
