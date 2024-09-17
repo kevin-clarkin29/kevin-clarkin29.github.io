@@ -37,7 +37,7 @@ Completing the problem took creating blocks of time each week where I could dedi
 
 I first began trying to solve the problem by physically writing out all the different permutaions of days to cucumbers which could be eaten. However, after an hour or two of writing, it was found out that attempting to note down all the number of permutations to prove whether there was neccessarily a period of several full days which the professor consumed exactly 13 cucumbers is near impossible. There needed to be another way.
 
-Enter the Pigeonhole Principle. I found out about this principle about 1/3 of the way into the semester. It states that if n items are put into m containers, with n > m, then at least one container must contain more than one item. In the problem, there are more cucumbers (pigeons) being consumed than the given days (holes), hence the connection.
+Enter the Pigeonhole Principle. I found out about this principle about 1/3 of the way into the semester. It states that if n items are put into m containers, with n > m, then at least one container must contain more than one item. In the problem there are more cucumbers (pigeons) being consumed than the given days (holes), hence the connection.
 
 <h1 style="color:green;">The Solution:</h1>
 This is part of the email that I sent to my professor on Dec 12th, 2023. It was later confirmed to be the correct solution the same day. Funnily enough, I had to make sure to check in with the professor in-person to make sure that if I had sent the correct proof on the final day, which it was, I'd still recieve extra credit. He allowed it and I found the solution just in time.  
