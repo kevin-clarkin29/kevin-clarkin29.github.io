@@ -3,12 +3,12 @@ layout: essay
 type: essay
 title: "The Flowing Philosophy of Coding Standards: Far Greater than Formatting"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-04
+date: 2024-09-25
 published: true
 labels:
-  - Software Engineering
+  - Coding Standards
+  - ESLint
   - Typescript
-  - Javascript
 ---
 
 <img width="400px" class="rounded float-start pe-4" src="https://webguruz.in/wp-content/uploads/2017/09/The-Significance-of-Coding-Standards-1.webp">
