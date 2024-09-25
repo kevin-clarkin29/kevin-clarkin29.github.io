@@ -11,7 +11,7 @@ labels:
   - Javascript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="https://webguruz.in/wp-content/uploads/2017/09/The-Significance-of-Coding-Standards-1.webp">
+<img width="400px" class="rounded float-start pe-4" src="https://webguruz.in/wp-content/uploads/2017/09/The-Significance-of-Coding-Standards-1.webp">
 
 When most people think of coding standards, the conversation often revolves around trivial matters: how many spaces to indent, where to place curly braces, or whether to use tabs or spaces. While these small details do play a role in making code more readable, they miss the larger picture of why coding standards are so crucial. In my experience, coding standards can be one of the most transformative practices in software development, and I believe that, if implemented well, they can significantly improve both the quality of the codebase and the learning process of a programming language.
 
@@ -22,7 +22,7 @@ The essence of coding standards is consistency. Code is not only written for mac
 
 But coding standards go beyond surface-level consistency. Many coding standards enforce practices that encourage developers to write better code overall. For example, standards might enforce proper naming conventions for variables, functions, and classes, making the code more self-explanatory. Standards can also discourage practices that are prone to bugs, like using too many global variables, or encourage the use of features that enhance performance or security. These are not mere trivial words being typed out—they’re critical decisions that can make the difference between clean, maintainable code and a tangled mess.
 
-<img class= "whatever" src = "https://i.postimg.cc/j23nVscK/2024-09-04-22-19-35-Window.png">
+
 
 
 ## My Experience with ESLint and VSCode
