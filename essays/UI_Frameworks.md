@@ -16,7 +16,7 @@ labels:
 
 ## Why Use UI Frameworks Like Bootstrap 5?
 
-When it comes to building websites, developers often face the choice between using raw HTML and CSS or turning to a UI framework like Bootstrap 5. It can be tempting to avoid frameworks since they have a learning curve and can seem as complicated as a new programming language. However, there are several benefits that make using UI frameworks worth the effort. This essay will explore why developers bother with frameworks and why they matter, along with some of my personal experiences using Bootstrap 5.
+When it comes to building websites, developers often face the choice between using raw HTML and CSS or turning to a UI framework like Bootstrap 5. It can be tempting to avoid frameworks since they have a learning curve and can seem as complicated as a new programming language. However, there are several benefits that make using UI frameworks worth the effort. This essay will explore why developers bother with frameworks and why they matter, along with some of my personal experiences using Bootstrap 5. 500 cigarettes.
 
 ### What Are UI Frameworks?
 
