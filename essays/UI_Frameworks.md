@@ -16,17 +16,17 @@ labels:
 
 ## Why Use UI Frameworks Like Bootstrap 5?
 
-When it comes to building websites, developers often face the choice between using raw HTML and CSS or turning to a UI framework like Bootstrap 5. It can be tempting to avoid frameworks since they have a learning curve and can seem as complicated as a new programming language. However, there are several benefits that make using UI frameworks worth the effort. This essay will explore why developers bother with frameworks and why they matter, along with some of my personal experiences using Bootstrap 5. 500 cigarettes.
+When it comes to building websites, developers face the choice between using raw HTML and CSS or turning to a UI framework like Bootstrap 5. It can be tempting to avoid frameworks since they have a learning curve and can seem as complicated as a new programming language. However, there are several benefits that make using UI frameworks worth the effort. This essay will explore why developers bother with frameworks and why they matter, along with some of my personal experiences using Bootstrap 5.
 
 ### What Are UI Frameworks?
 
-A UI framework is a set of pre-made code that helps developers build the look and feel of a website. Frameworks like Bootstrap provide ready-to-use CSS and JavaScript for common elements like navigation bars, buttons, and forms. The goal is to speed up development, make sites responsive (able to adjust to different screen sizes), and keep the design consistent across the site.
+A UI framework is a set of pre-made code that helps developers build the look and feel of a website. Frameworks like Bootstrap provide ready-to-use CSS and JavaScript for common elements like navigation bars, buttons, and forms. The goal is to speed up development, make sites responsive, able to adjust to different screen sizes, and keep the design consistent across the site.
 
 ### The Benefits of Using a UI Framework
 
 1. **Faster Development**
 
-   Frameworks speed up the process of creating websites by providing built-in components. Instead of starting from scratch for every project, you can use the framework's pre-designed elements to get things up and running quickly. Once you get familiar with a framework, it can save even more time.
+    Similar to how cooking a recipe the first time takes a while but you become quicker the more proficient you are with it, frameworks speed up the process of creating websites by providing built-in components and building a familiarity with its syntax. Instead of starting from scratch for every project, you can use the framework's pre-designed elements to get things up and running quickly. Once you get familiar with a framework, it can save even more time.
 
 2. **Responsive Design**
 
@@ -42,7 +42,7 @@ A UI framework is a set of pre-made code that helps developers build the look an
 
 5. **Community Support**
 
-   Frameworks like Bootstrap have a large community, with lots of tutorials, documentation, and pre-existing code available. This makes it easier to solve problems when they come up. Since the community keeps the framework updated, you can stay on top of the latest web standards.
+   Build projects long enough and you'll eventually have a run-in with documentation that was lackluster, and the nightmare that entails. Frameworks like Bootstrap have a large community, with lots of tutorials, documentation, and pre-existing code available. This makes it easier to solve problems when they come up. Since the community keeps the framework updated, you can stay on top of the latest web standards.
 
 ### The Downsides of Using a Framework
 
@@ -56,11 +56,11 @@ A UI framework is a set of pre-made code that helps developers build the look an
 
 3. **Extra Code**
 
-   Frameworks include a lot of built-in features, and if you only use some of them, your website may end up with a lot of unused code. This can slow down the website’s performance if you don’t optimize it.
+   Frameworks include a lot of built-in features, and if you only use some of them, your website may end up with a lot of unused code. This can slow down the website’s performance if you don’t optimize it. I had this problem myself just in creating some mock-up websites.
 
 ### My Experience with Bootstrap 5
 
-When I first started using Bootstrap 5, it felt limiting because I had to learn a new way of structuring my web pages. But as I got used to the grid system and utility classes, I found it much easier to create responsive designs without writing tons of custom code. There were times when I needed more control over the design, and customizing Bootstrap’s default styles was a bit frustrating. However, the time saved on other parts of the project made it worth it.
+When I first started using Bootstrap 5, it felt limiting because I had to learn a new way of structuring my web pages. But as I got used to the grid system and utility classes, I found it much easier to create designs without writing tons of custom code. There were times when I needed more control over the design, and customizing Bootstrap’s default styles was a bit frustrating. However, the time saved on other parts of the project, such as not having to go back and forth between the standard HTML / CSS files, made it worth it.
 
 ### Why Not Just Use Raw HTML and CSS?
 
