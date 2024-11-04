@@ -18,7 +18,7 @@ labels:
 
 **Authors:** JR (Jonathan) Lee, Jared Seto, Shaelyn Loo, and Kevin Clarkin
 
-<br><br><br>
+<br><br>
 
 ## Overview
 
