@@ -10,7 +10,7 @@ labels:
   - Website
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="https://static-00.iconduck.com/assets.00/stack-overflow-icon-2048x2048-7ohycn5z.png">
+<img width="200px" class="rounded float-start pe-4" src="https://i.postimg.cc/YpQ0cdnF/d66076d0-b28e-4856-bf49-7f8cc24cd302.webp">
 
 # Project: Aloha Archives
 
