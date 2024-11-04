@@ -92,6 +92,3 @@ After implementing the basic functionality, here are ideas for more advanced fea
 - **Interactive visualizations** for datasets that lack visualizations.
 - **User-customizable visualizations** for further data exploration.
 - **"Schizo mode"** to appeal to non-mainstream audiences.
-
-## PRETTY PICTURES:
-![Aloha Archives Mockup](path/to/your/image.png)
