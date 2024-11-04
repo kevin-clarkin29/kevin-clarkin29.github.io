@@ -7,14 +7,18 @@ date: 2024-11-04
 published: true
 labels:
   - Software Engineering
-  - Website
+  - NextJS
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="https://i.postimg.cc/YpQ0cdnF/d66076d0-b28e-4856-bf49-7f8cc24cd302.webp">
 
+
+
 # Project: Aloha Archives
 
 **Authors:** JR (Jonathan) Lee, Jared Seto, Shaelyn Loo, and Kevin Clarkin
+
+
 
 ## Overview
 
