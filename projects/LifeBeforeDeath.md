@@ -8,7 +8,7 @@ published: true
 labels:
   - Unreal Engine
   - Perforce
-summary: "Indie first-person puzzle game developed as a team for ICS 485."
+summary: "Indie first-person puzzle game developed as a team for ICS 485: Video Game Design."
 ---
 
 <img class="img-fluid" src="https://liamkula.github.io/img/LBD_Banner.png">
