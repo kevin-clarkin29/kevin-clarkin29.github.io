@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Aloha Archives: Your Window into Hawaii’s Data and Insights"
+title: "Reflection of AI in 314: AI as a Tool for Learning"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-16
 published: true
