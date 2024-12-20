@@ -20,7 +20,7 @@ labels:
 summary: "A redesign of the current Hawaii Open Data Portal to allow for more ease of use."
 ---
 
-<img class="img-fluid" src="https://jseto808.github.io/img/aloha-archives/AA-Logo.png">
+<img src="https://jseto808.github.io/img/aloha-archives/AA-Logo.png" alt="Aloha Archives Logo" width="200">
 
 # Project Summary
 
@@ -58,23 +58,22 @@ Aloha Archives addresses these challenges through:
 
 ## My Contrubutions
 
-1. **The Styling**:
+1. **General Styling**:
     - The background had been formatted twice, once with a shack on the beach to a darker contrasted beach to allow users to see the website as clearly as possible.
-    - For the font and color, I chose red and black since its my favorite color scheme and I believe it to be a pleasing combination to the eyes.
+    - For the color, I chose red and black since its my favorite color scheme and I believe it to be a pleasing combination to the eyes.
 
-    ![The Home Page Website for Aloha Archives](./img/Home_Page.png)
+<img src="../img/Home_Page.png" alt="Aloha Archives Home Page" width="900">
 
 
 2. **Favorite Datasets Functionality**:
     - Users are given the option to add to a list their favorite datasets for later viewing upon returning to the site. This is marked by a heart React component that is filled out and is updated to the site when viewing different pages.
     - The Favorite Datasets page itself is updated to list all favorited datasets properly.
 
-3. **Favorite Datasets Functionality**:
-    - Users are given the option to add to a list their favorite datasets for later viewing upon returning to the site. This is marked by a heart that is filled out and is updated to the site when viewing different pages.
-    - The Favorite Datasets page itself is updated to list all favorited datasets properly.
+<img src="../img/Fav_Data.png" width="450"> <img src="../img/Fav_Data_Filled.png" width="450">
 
-4. **Trending Datasets with Carousel**
+3. **Trending Datasets with Carousel**
     - Users on the home page see a 3 dataset card carousel move on a timer the Datasets which have been viewed the most on the site.
+    - On it are the name of the dataset, a short description, its category, and the number of views the dataset has. The view count determined whether the card is added or removed from the carousel.
 
-    <img class="img-fluid" src="https://jseto808.github.io/img/aloha-archives/AA_Landing.png">
+    <img class="img-fluid" src="https://jseto808.github.io/img/aloha-archives/AA_Landing.png" width="600">
 
