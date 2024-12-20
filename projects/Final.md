@@ -20,7 +20,9 @@ labels:
 summary: "A redesign of the current Hawaii Open Data Portal to allow for more ease of use."
 ---
 
+<div style="text-align: center;">
 <img src="https://jseto808.github.io/img/aloha-archives/AA-Logo.png" alt="Aloha Archives Logo" width="200">
+</div>
 
 # Project Summary
 
@@ -76,4 +78,33 @@ Aloha Archives addresses these challenges through:
     - On it are the name of the dataset, a short description, its category, and the number of views the dataset has. The view count determined whether the card is added or removed from the carousel.
 
     <img class="img-fluid" src="https://jseto808.github.io/img/aloha-archives/AA_Landing.png" width="600">
+
+## Technical Highlights
+
+- **Tech Stack**: Built using React, Next.js, PostgreSQL, Bootstrap, and TypeScript.
+- **Dynamic Query Handling**: Integrated with URL parameters for deep linking and persistent search context.
+- **Responsive Design**: Ensured compatibility across devices with modern design principles.
+
+## Impact and Success Metrics
+
+- **Enhanced User Experience**: The dynamic search and results features empower users to find relevant datasets faster and more intuitively.
+- **Increased Engagement**: Persona-based recommendations and interactive visualizations encourage deeper interaction with the portal.
+- **Improved Accessibility**: The platform accommodates users with varying technical skills, fostering inclusivity.
+
+## What I Learned
+
+- **Building Scalable Web Applications**: Gained hands-on experience with React, Next.js, and TypeScript, understanding how these technologies integrate to create a scalable, dynamic, and modern web application.
+
+- **Responsive and Inclusive Design**: Developed skills in creating responsive web layouts and incorporating universal design principles to ensure accessibility for users of diverse technical backgrounds.
+
+- **User-Centered Development**: While creating user-friendly interfaces, I learned how small design decisions impact inclusivity, ensuring features are accessible to a broad audience.
+
+- **Team Collaboration**: Enhanced my ability to work collaboratively with a team, integrating feedback and ideas to build a cohesive and impactful project.
+
+[Github Repository: https://github.com/Aloha-Archives/aloha-archives](https://github.com/Aloha-Archives/aloha-archives)
+
+[Link to Deployed Project](https://aloha-archives.vercel.app/)
+
+
+
 
